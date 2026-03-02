@@ -10,7 +10,7 @@ Building modern web applications with React, Next.js, TypeScript, and AI-powered
 
 Full-Stack Software Engineer specializing in AI-driven development and rapid prototyping. I build intelligent applications end-to-end — from scalable, secure backends to dynamic, optimized user interfaces — with AI integrated throughout the development lifecycle to accelerate delivery and drive innovation. My focus is on frontend architecture, user experience, state management, and architectural decisions, combined with agentic workflows, automation pipelines, and prompt engineering to ship production-ready products fast.
 
-Currently working as a Software Engineer at [Dojo Coding Labs](https://github.com/DojoCodingLabs), building AI-native learning platforms and SaaS products. I prototype quickly, experiment boldly, and iterate based on real results — whether working independently or collaboratively, I stay motivated by continuous learning and pushing the boundaries of what's possible with emerging technologies.
+Currently working as a Software Product Engineer at [Dojo Coding Labs](https://github.com/DojoCodingLabs), building AI-native learning platforms and SaaS products. I prototype quickly, experiment boldly, and iterate based on real results — whether working independently or collaboratively, I stay motivated by continuous learning and pushing the boundaries of what's possible with emerging technologies.
 
 ---
 
