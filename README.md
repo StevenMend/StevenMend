@@ -68,7 +68,7 @@ Real estate platform for Costa Rica with interactive terrain mapping, KML polygo
 ## Experience
 
 ### Software Engineer | AI Integration — [Dojo Coding Labs](https://github.com/DojoCodingLabs)
-`Dec 2025 - Present`
+`Nov 2025 - Present`
 
 Building and scaling an AI-native learning platform within a collaborative engineering team, operating across product architecture, full-stack development, AI integration, and quality assurance. Led complex UI implementations and full-screen redesigns from Figma to production using React, TypeScript, and Next.js, while contributing to scalable system architecture and backend coordination. Actively involved in AI-driven workflows, agentic development practices, automation pipelines, regression validation, and production hardening. Own high-impact product features end-to-end — from concept definition and UX structuring to deployment and performance optimization.
 
