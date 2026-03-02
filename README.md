@@ -6,6 +6,19 @@ Building modern web applications with React, Next.js, TypeScript, and AI-powered
 
 ---
 
+## Recent Contributions
+
+```mermaid
+xychart-beta
+    title "PRs Merged — Product Ownership (Nov 2025 → Feb 2026)"
+    x-axis ["Nov", "Dec", "Jan", "Feb"]
+    y-axis "PRs Merged" 0 --> 60
+    bar "Dojo OS" [0, 1, 3, 20]
+    bar "Mente Futbol" [0, 0, 0, 33]
+```
+
+---
+
 ## About
 
 Full-Stack Software Engineer specializing in AI-driven development and rapid prototyping. I build intelligent applications end-to-end — from scalable, secure backends to dynamic, optimized user interfaces — with AI integrated throughout the development lifecycle to accelerate delivery and drive innovation. My focus is on frontend architecture, user experience, state management, and architectural decisions, combined with agentic workflows, automation pipelines, and prompt engineering to ship production-ready products fast.
