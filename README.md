@@ -91,15 +91,6 @@ Led end-to-end development of an Android warehouse management application for a 
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=StevenMend&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMend&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-mendez-4277602ba/)
