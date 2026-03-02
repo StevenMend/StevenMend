@@ -6,16 +6,10 @@ Building modern web applications with React, Next.js, TypeScript, and AI-powered
 
 ---
 
-## Recent Contributions
-
-```mermaid
-xychart-beta
-    title "PRs Merged — Product Ownership (Nov 2025 → Feb 2026)"
-    x-axis ["Nov", "Dec", "Jan", "Feb"]
-    y-axis "PRs Merged" 0 --> 60
-    bar "Dojo OS" [0, 1, 3, 20]
-    bar "Mente Futbol" [0, 0, 0, 33]
-```
+![57 PRs Merged](https://img.shields.io/badge/57_PRs_Merged-Dojo_Coding_Labs-2563EB?style=for-the-badge)
+![+35K Lines](https://img.shields.io/badge/+35K_Lines-across_2_products-16A34A?style=for-the-badge)
+![#1 Contributor](https://img.shields.io/badge/%231_Contributor-Mente_Futbol-F59E0B?style=for-the-badge)
+![Product Owner](https://img.shields.io/badge/Product_Owner-Quantathon_CR_2026-9333EA?style=for-the-badge)
 
 ---
 
