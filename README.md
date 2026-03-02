@@ -62,8 +62,24 @@ Real estate platform for Costa Rica with interactive terrain mapping, KML polygo
 
 ## Experience
 
-**Independent Developer** — Building SaaS products and client platforms
-**Dojo Coding** — Frontend development, landing pages, PRs, code reviews, and team collaboration
+**Software Engineer | AI Integration | Full-Stack Product Development**
+`Dec 2025 - Present`
+Building and scaling an AI-native learning platform. Led complex UI implementations and full-screen redesigns from Figma to production using React, TypeScript, and Next.js. Involved in AI-driven workflows, agentic development, automation pipelines, and production hardening. Own high-impact features end-to-end.
+
+**Lead Full-Stack Software Engineer — Box Architects** | Remote
+`Apr 2025 - Present`
+Designed and developed a full-stack real estate platform with interactive Google Earth/Maps integration for 3D land visualization, geospatial polygons, and topographic analysis. Built in partnership with Tabu Architects.
+
+**Full-Stack AI Developer — UnchAIned** | Remote
+`Jun 2024 - Oct 2024`
+Built AI pipelines integrating OpenAI GPT-4, Claude Sonnet, and DALL-E for automated large-scale marketing content generation for clients like Honda and Disney. Backend with Python/FastAPI, frontend with React, Next.js, and TypeScript.
+
+**Full Stack Developer — QSoft Costa Rica** | Remote
+`Jan 2023 - Dec 2023`
+Led end-to-end development of an Android warehouse management app in Python. Barcode/QR scanning, real-time inventory tracking, modular architecture with secure database synchronization.
+
+**Frontend Developer — Dojo Coding**
+Landing pages, PRs, code reviews, and team collaboration across multiple projects.
 
 ---
 
@@ -78,5 +94,5 @@ Real estate platform for Costa Rica with interactive terrain mapping, KML polygo
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-mendez-4277602ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/StevenMend)
