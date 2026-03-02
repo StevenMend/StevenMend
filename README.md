@@ -6,13 +6,6 @@ Building modern web applications with React, Next.js, TypeScript, and AI-powered
 
 ---
 
-![57 PRs Merged](https://img.shields.io/badge/57_PRs_Merged-Dojo_Coding_Labs-2563EB?style=for-the-badge)
-![+35K Lines](https://img.shields.io/badge/+35K_Lines-across_2_products-16A34A?style=for-the-badge)
-![#1 Contributor](https://img.shields.io/badge/%231_Contributor-Mente_Futbol-F59E0B?style=for-the-badge)
-![Product Owner](https://img.shields.io/badge/Product_Owner-Quantathon_CR_2026-9333EA?style=for-the-badge)
-
----
-
 ## About
 
 Full-Stack Software Engineer specializing in AI-driven development and rapid prototyping. I build intelligent applications end-to-end — from scalable, secure backends to dynamic, optimized user interfaces — with AI integrated throughout the development lifecycle to accelerate delivery and drive innovation. My focus is on frontend architecture, user experience, state management, and architectural decisions, combined with agentic workflows, automation pipelines, and prompt engineering to ship production-ready products fast.
