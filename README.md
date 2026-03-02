@@ -70,40 +70,24 @@ Real estate platform for Costa Rica with interactive terrain mapping, KML polygo
 ### Software Engineer | AI Integration — [Dojo Coding Labs](https://github.com/DojoCodingLabs)
 `Dec 2025 - Present`
 
-Building and scaling an AI-native learning platform within a collaborative engineering team. Operating across product architecture, full-stack development, AI integration, and quality assurance.
+Building and scaling an AI-native learning platform within a collaborative engineering team, operating across product architecture, full-stack development, AI integration, and quality assurance. Led complex UI implementations and full-screen redesigns from Figma to production using React, TypeScript, and Next.js, while contributing to scalable system architecture and backend coordination. Actively involved in AI-driven workflows, agentic development practices, automation pipelines, regression validation, and production hardening. Own high-impact product features end-to-end — from concept definition and UX structuring to deployment and performance optimization.
 
-**[Dojo OS](https://github.com/DojoCodingLabs/dojo-os)** — Core learning platform
-- 26 PRs merged, owner of frontend architecture and responsive design system
-- Led Course UI Redesign — full-screen Figma-to-production implementation
-- Built Quantathon CR 2026 landing page V2 + performance overhaul
-- Standardized design system: touch targets, breakpoints, spacing, responsive icons
-- Implemented i18n support across landing and auth pages
-- User menu redesign, Projects landing page polish, configurable recommendations
-
-**[Mente Futbol](https://github.com/DojoCodingLabs/mentefutbol)** — AI-powered football coaching SaaS
-- 33 PRs merged, 80+ commits — primary frontend and full-stack contributor
-- Built MenteFut UI V1: mobile-first liquid glass design system
-- Wired full quiz funnel (Q1-Q10 + analyzing profile interstitial)
-- Integrated PostHog analytics events across funnel components
-- Built cron jobs: abandoned cart emails, daily coaching sessions, subscriber generation
-- Implemented Supabase auth with magic link flow + email systems
-- PDF generation pipeline, signed URL resolution for audio/PDF downloads
-- API security hardening, accessibility fixes, OG tags, error boundaries
+Key contributions across [Dojo OS](https://github.com/DojoCodingLabs/dojo-os) (core learning platform) and [Mente Futbol](https://github.com/DojoCodingLabs/mentefutbol) (AI-powered football coaching SaaS) include frontend architecture ownership, responsive design system standardization, mobile-first UI development, full quiz funnels, cron-based automation, Supabase auth flows, PostHog analytics integration, PDF generation pipelines, API security hardening, i18n, and landing page builds like Quantathon CR 2026.
 
 ### Lead Full-Stack Software Engineer — Box Architects | Remote
 `Apr 2025 - Present`
 
-Designed and developed a full-stack real estate platform with interactive Google Earth/Maps integration for 3D land visualization, geospatial polygons, and topographic analysis. Built in partnership with Tabu Architects.
+Designed and developed Box Architects, a full-stack architecture and real estate web platform created to showcase a complete architectural portfolio and manage properties with advanced features. Initially launched as an informational architecture website in partnership with Tabu Architects, the project evolved into a comprehensive real estate solution with an interactive property section that integrates a custom Google Earth/Google Maps implementation for 3D land visualization, geospatial polygons, and topographic analysis to accurately represent terrain and legal due-diligence data.
 
 ### Full-Stack AI Developer — UnchAIned | Remote
 `Jun 2024 - Oct 2024`
 
-Built AI pipelines integrating OpenAI GPT-4, Claude Sonnet, and DALL-E for automated large-scale marketing content generation for clients like Honda and Disney. Backend with Python/FastAPI, frontend with React, Next.js, and TypeScript.
+Built AI pipelines integrating OpenAI GPT-4, Claude Sonnet, and DALL-E to automate large-scale personalized marketing content creation for partners such as Honda and Disney. At the core of the application is an AI-driven marketing automation generator that collects user input through interactive prompts, interprets it as structured JSON, and manages high-speed data flows to automatically produce complete marketing assets — including text, images, and video. Designed and maintained the backend with Python/FastAPI and developed modern interfaces using React, Next.js, and TypeScript.
 
 ### Full Stack Developer — QSoft Costa Rica | Remote
 `Jan 2023 - Dec 2023`
 
-Led end-to-end development of an Android warehouse management app in Python. Barcode/QR scanning, real-time inventory tracking, modular architecture with secure database synchronization.
+Led end-to-end development of an Android warehouse management application for a storage company. The solution enables scanning and processing of barcodes and QR codes to analyze, compare, store, and manage product production with full traceability. Built entirely in Python with a modular architecture, real-time data processing, automatic validation, and secure database synchronization. Designed workflows for live inventory tracking, inbound/outbound control, dynamic reporting, and status notifications.
 
 ---
 
