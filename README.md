@@ -50,19 +50,6 @@ Currently working as a Software Product Engineer at [Dojo Coding Labs](https://g
 ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white)
 
 ---
-
-## Featured Projects
-
-### [FischerOS](https://github.com/StevenMend/FischerOS)
-Hospitality operations platform (SaaS) — a real-time PWA connecting guests, staff, and management into one unified system. QR-based guest interface, department dashboards, AI concierge, and white-label multi-tenant architecture.
-
-`React` `TypeScript` `Supabase` `Zustand` `TanStack Query` `Tailwind CSS` `PWA`
-
-### [Box RE](https://github.com/StevenMend/Box-RE)
-Real estate platform for Costa Rica with interactive terrain mapping, KML polygon rendering via Google Maps API, property listings with advanced filtering, and multi-language support (EN/ES).
-
-`Next.js 14` `TypeScript` `Supabase` `Google Maps API` `Tailwind CSS` `shadcn/ui` `Zod`
-
 ---
 
 ## Experience
