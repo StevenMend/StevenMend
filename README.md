@@ -2,7 +2,7 @@
 
 **Product Software Engineer · AI-Native Architect · Costa Rica**
 
-Architecting production systems with Claude in the loop at every layer — schema design, security review, refactor planning, the boring SQL. Not autocomplete, partner.
+Architecting production systems with Claude in the loop at every layer — schema design, security review, refactor planning. Not autocomplete, partner.
 
 ---
 
@@ -20,13 +20,40 @@ Most software dies between MVP and production. The code works in the demo, then 
 
 ## Currently Shipping
 
-🏗️ **[Dojo OS](https://dojocoding.io)** — Web3 and AI software development learning platform with multi-pillar architecture (Pathways, Projects, Hackathons, Launchpad, Marketplace, Community)
-
-⚖️ **[Dojo Projects](https://dojocoding.io/projects)** — The trust layer of Dojo OS. Not a freelance marketplace — a Score-contribution engine with notarial-grade attestations, Stripe escrow, dual-signature flows, and a 4-layer notarial UI grammar built from scratch
-
-⚽ **[MenteFut](https://mentefutbol.com)** — AI mental coaching platform for footballers, with Jeaustin Campos (former head coach of the Costa Rica National Team) as official voice and ambassador
-
-🏢 **Hikari** — B2B institutional platform · scaffold to v1.0-beta in 3 days · subledger engine with DECIMAL accrual · audit trail across 7 tables · onboarding state machine
+<table>
+<tr>
+<td width="60" align="center">
+<a href="https://dojocoding.io"><img src="https://www.mentefutbol.com/logos/dojo.png" width="48" alt="Dojo OS"/></a>
+</td>
+<td>
+<strong><a href="https://dojocoding.io">Dojo OS</a></strong> — Web3 and AI software development learning platform with multi-pillar architecture (Pathways, Projects, Hackathons, Launchpad, Marketplace, Community)
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+<a href="https://dojocoding.io/projects"><img src="https://www.mentefutbol.com/logos/dojo.png" width="48" alt="Dojo Projects"/></a>
+</td>
+<td>
+<strong><a href="https://dojocoding.io/projects">Dojo Projects</a></strong> — The trust layer of Dojo OS. Not a freelance marketplace — a Score-contribution engine with notarial-grade attestations, Stripe escrow, dual-signature flows, and a 4-layer notarial UI grammar built from scratch
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+<a href="https://mentefutbol.com"><img src="https://www.mentefutbol.com/logos/light.svg" width="48" alt="MenteFut"/></a>
+</td>
+<td>
+<strong><a href="https://mentefutbol.com">MenteFut</a></strong> — AI mental coaching platform for footballers, with Jeaustin Campos (former head coach of the Costa Rica National Team) as official voice and ambassador
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+<img src="https://img.shields.io/badge/H-0B0C10?style=for-the-badge&labelColor=0B0C10&color=635BFF" width="48" alt="Hikari"/>
+</td>
+<td>
+<strong>Hikari</strong> — B2B institutional platform · scaffold to v1.0-beta in 3 days · subledger engine with DECIMAL accrual · audit trail across 7 tables · onboarding state machine
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,7 +109,7 @@ Lead engineer of the Software Factory inside Dojo OS — the studio that takes p
 - Stake-weighted reputation protocol with on-chain-grade attestations
 - Bilateral tier filtering · score-gated access · 11 pgTAP RLS suites passing
 
-**Enterprise & custom engagements:** Bespoke client work end-to-end through the Factory — same operating model applied to [Hikari](#), [MenteFut](https://mentefutbol.com), and on-demand enterprise builds. No templates, each solution thought from primitives.
+**Enterprise & custom engagements:** Bespoke client work end-to-end through the Factory — same operating model applied to Hikari, [MenteFut](https://mentefutbol.com), and on-demand enterprise builds. No templates, each solution thought from primitives.
 
 **Architecture & Primitives:** Three-layer API with circuit breaker · TanStack Query hooks · query-key factory · Custom Dojo Design System with dual visual language (Dashboard vs Landing) · 31 pentest-derived security rules.
 
@@ -117,10 +144,10 @@ Led end-to-end development of an Android warehouse management application with b
 
 ## Certifications
 
-🤖 **Anthropic** — Building with the Claude API · Claude Code in Action · Introduction to Agent Skills
-🧠 **Udemy** — Generative AI, LLM Apps & AI Agents · Full-Stack Web Development Bootcamp · 100 Days of Code Python
-🔍 **IBM** — Introduction to Software Engineering · Introduction to Cloud Computing
-📊 **Google** — Foundations of Data Science · Get Started with Python · Translate Data into Insights
+**Anthropic** — Building with the Claude API · Claude Code in Action · Introduction to Agent Skills
+**Udemy** — Generative AI, LLM Apps & AI Agents · Full-Stack Web Development Bootcamp · 100 Days of Code Python
+**IBM** — Introduction to Software Engineering · Introduction to Cloud Computing
+**Google** — Foundations of Data Science · Get Started with Python · Translate Data into Insights
 
 ---
 
