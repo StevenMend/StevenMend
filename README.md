@@ -19,7 +19,6 @@ Most software dies between MVP and production. The code works in the demo, then 
 ---
 
 ## Currently Shipping
-
 <table>
 <tr>
 <td width="60" align="center">
@@ -47,8 +46,7 @@ Most software dies between MVP and production. The code works in the demo, then 
 </tr>
 <tr>
 <td width="60" align="center">
-<img src="<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8d0475bf-0ff6-4ec1-9832-4b12de798e84" />
-" width="48" alt="Hikari"/>
+<img src="https://github.com/user-attachments/assets/8d0475bf-0ff6-4ec1-9832-4b12de798e84" width="48" alt="Hikari"/>
 </td>
 <td>
 <strong>Hikari</strong> — B2B institutional platform · scaffold to v1.0-beta in 3 days · subledger engine with DECIMAL accrual · audit trail across 7 tables · onboarding state machine
@@ -57,7 +55,6 @@ Most software dies between MVP and production. The code works in the demo, then 
 </table>
 
 ---
-
 ## Tech Stack
 
 **Frontend**
