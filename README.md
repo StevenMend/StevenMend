@@ -2,7 +2,7 @@
 
 Product engineer in Costa Rica. I take products from the first conversation to production — discovery, database and security, backend, design system, frontend, payments and launch — with Claude in the loop at every layer. If it can be automated, I automate it.
 
-<img src="assets/impact.png" alt="1,000+ PRs merged at Dojo · 3 businesses run my POS · 5 agent personas live · 8 countries use DOJO" width="100%">
+<img src="assets/impact.png" alt="1,000+ PRs merged at Dojo · 3 restaurants run my POS · 5 agent personas live · 8 countries use DOJO" width="100%">
 
 ## What I've built
 
@@ -31,20 +31,20 @@ Investor platform for a fund holding: KYC onboarding state machine, portfolios a
 
 ### Fischer POS
 
-Point of sale running every day in 3 businesses across Costa Rica: orders, kitchen tickets, inventory, cash count, payroll and Costa Rica electronic invoicing (Hacienda). Owners ask Claude about their sales through an OAuth 2.1 MCP server.
+Point of sale running every day in 3 restaurants across Costa Rica: orders, kitchen tickets, inventory, cash count, payroll and Costa Rica electronic invoicing (Hacienda). Owners ask Claude about their sales through an OAuth 2.1 MCP server.
 
 `React` `Supabase` `Hono` `MCP` `OAuth 2.1`
 
-### DIESSA OS · [diessa-os.vercel.app](https://diessa-os.vercel.app)
+### DIESSA OS · in development
 
-Water telemetry and remote control for rural aqueducts: tank level, flow, pressure, water quality and pump health on one mobile dashboard. Leading a 3-person team.
+Water telemetry and remote control for rural aqueducts: tank level, flow, pressure, water quality and pump health on one mobile dashboard. Leading a 3-person team. Demo at [diessa-os.vercel.app](https://diessa-os.vercel.app).
 
 `Next.js` `Supabase`
 
 ### Client sites
 
-- **[Rusz Shop](https://ruszshop.com)** — sneaker and streetwear store with an admin panel; orders close on WhatsApp and are paid by SINPE.
-- **[Darlope Travels](https://darlopetravels.com)** — private transfers from Liberia airport, with a booking system and CRM.
+- **[Rusz Shop](https://ruszshop.com)** — sneaker and streetwear store with ONVO checkout and an admin panel.
+- **[Darlope Travels](https://darlopetravels.com)** — private transfers from Liberia airport, with a booking system, ONVO payments and a CRM.
 - **Box Architects** — real estate on Google Maps 3D with land polygons and a private due-diligence portal. Pitched at Blockchain Jungle 2025.
 
 ## How I work
