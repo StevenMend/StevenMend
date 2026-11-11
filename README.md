@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Steven Méndez — Product Engineer · Full-Stack & AI Agents. Live in production. Available now, remote, US hours." width="100%">
+<img src="assets/banner.svg" alt="Steven Méndez — Product Engineer · Full-Stack & AI Agents. Live in production. Open to work, remote, US hours." width="100%">
 
 Product engineer in Costa Rica. I take products from the first conversation to production — discovery, database and security, backend, design system, frontend, payments and launch — with Claude in the loop at every layer. If it can be automated, I automate it.
 
@@ -14,7 +14,7 @@ Learn, build, get paid and launch: the platform for tech talent in Latin America
 
 - **[Doji](https://www.trydojo.io), the AI agent** — five personas (The Mentor, The Tech Lead, The Founder, The Connector, The Guide) behind a router, with semantic search on pgvector, RLS-safe SQL tools, developer matching and project intake. Live in the app and on WhatsApp through the WhatsApp Business API, with voice notes, opt-out and account linking.
 - **[Projects](https://www.trydojo.io/projects)** — notarial-grade marketplace: Stripe Connect escrow, dual-signature attestations, milestone gates, dispute resolution and stake-weighted reputation. 11 pgTAP RLS suites passing.
-- **[Pathways](https://www.trydojo.io/pathways)** — the learning engine: courses, Mux video lessons, quizzes, assignments and verifiable certificates.
+- **[Pathways](https://www.trydojo.io/pathways)** — the learning engine: courses, Mux video lessons, quizzes, assignments and verifiable certificates. I also teach on it: [Software Engineering Fundamentals · SWE-201](https://www.trydojo.io/pathways/courses/software-development-fundamentals-swe-201), my course on what a product is, the six pieces of every piece of software, the technical vocabulary and how to pick a stack (8 modules).
 - **CRM + MCP connector** — the company CRM, fed by signature-verified webhooks for Meta leads and WhatsApp, and operated from Claude by the ops team through an MCP server.
 
 `React 19` `TypeScript` `Vite` `Supabase` `pgvector` `Stripe Connect` `Mux` `Gemini` `MCP`
@@ -78,13 +78,28 @@ Observation first: I spend time with the people who live with the problem before
 
 ## Certifications
 
-| Issuer | Certificates |
-|---|---|
-| **Anthropic** | [Building with the Claude API](https://verify.skilljar.com/c/ru3tfnwbih7h) · [Claude Code in Action](https://verify.skilljar.com/c/bows5ph8ioze) · [Introduction to Agent Skills](https://verify.skilljar.com/c/3s3hkuby3ikt) |
-| **Google** · Coursera | [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/8ZRX13R7INNN) · [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/account/accomplishments/verify/RNTPMN4R7IPU) · Get Started with Python |
-| **IBM** · Coursera | Introduction to Software Engineering · Introduction to Cloud Computing |
-| **Udemy** | [IA Generativa, LLM Apps, Agentes IA (bootcamp)](https://www.udemy.com/certificate/UC-144eeef4-07c6-4132-bcc1-328732d7976b/) · [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/certificate/UC-ff9a203d-ebaf-495f-a2ea-c1d0bdaac4cd/) · [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/certificate/UC-40efb957-1598-459e-b26f-e82954716766/) · [Curso completo de Python: Programación en Python desde cero](https://www.udemy.com/certificate/UC-92e2a394-e5cb-47a0-b1ab-aa2732ac74c7/) · [The Ultimate Beginners Course for Computer Science or IT](https://www.udemy.com/certificate/UC-c2c764b8-b981-4a8a-88f8-3b1b7d29cd06/) |
+**Course I teach** — [Software Engineering Fundamentals · SWE-201](https://www.trydojo.io/pathways/courses/software-development-fundamentals-swe-201) on DOJO Pathways · 8 modules · beginner
+
+| Certificate | Issuer | Credential |
+|---|---|---|
+| Building with the Claude API | <img src="assets/logos/anthropic.svg" width="16" height="16" alt=""> Anthropic | [Show credential ↗](https://verify.skilljar.com/c/ru3tfnwbih7h) |
+| Claude Code in Action | <img src="assets/logos/anthropic.svg" width="16" height="16" alt=""> Anthropic | [Show credential ↗](https://verify.skilljar.com/c/bows5ph8ioze) |
+| Building with the Claude API | <img src="assets/logos/anthropic.svg" width="16" height="16" alt=""> Anthropic | [Show credential ↗](https://verify.skilljar.com/c/ru3tfnwbih7h) |
+| Introduction to Agent Skills | <img src="assets/logos/anthropic.svg" width="16" height="16" alt=""> Anthropic | [Show credential ↗](https://verify.skilljar.com/c/3s3hkuby3ikt) |
+| Building with the Claude API | <img src="assets/logos/anthropic.svg" width="16" height="16" alt=""> Anthropic | [Show credential ↗](https://verify.skilljar.com/c/ru3tfnwbih7h) |
+| Foundations of Data Science | <img src="assets/logos/google.svg" width="16" height="16" alt=""> Google · Coursera | [Show credential ↗](https://www.coursera.org/account/accomplishments/verify/8ZRX13R7INNN) |
+| Get Started with Python | <img src="assets/logos/google.svg" width="16" height="16" alt=""> Google · Coursera | [Show credential ↗](https://www.coursera.org/account/accomplishments/verify/BZAIPFFPN8SN) |
+| Go Beyond the Numbers: Translate Data into Insights | <img src="assets/logos/google.svg" width="16" height="16" alt=""> Google · Coursera | [Show credential ↗](https://www.coursera.org/account/accomplishments/verify/RNTPMN4R7IPU) |
+| Introduction to Software Engineering | <img src="assets/logos/ibm.svg" width="16" height="16" alt=""> IBM · Coursera | [Show credential ↗](https://www.coursera.org/account/accomplishments/verify/XO6Z3HFQRDOA) |
+| Introduction to Cloud Computing | <img src="assets/logos/ibm.svg" width="16" height="16" alt=""> IBM · Coursera | [Show credential ↗](https://www.coursera.org/account/accomplishments/verify/LBNCLBNQVAS1) |
+| IA Generativa, LLM Apps, Agentes IA | <img src="assets/logos/udemy.svg" width="16" height="16" alt=""> Udemy | [Show credential ↗](https://www.udemy.com/certificate/UC-144eeef4-07c6-4132-bcc1-328732d7976b/) |
+| The Complete Full-Stack Web Development Bootcamp | <img src="assets/logos/udemy.svg" width="16" height="16" alt=""> Udemy | [Show credential ↗](https://www.udemy.com/certificate/UC-ff9a203d-ebaf-495f-a2ea-c1d0bdaac4cd/) |
+| 100 Days of Code: The Complete Python Pro Bootcamp | <img src="assets/logos/udemy.svg" width="16" height="16" alt=""> Udemy | [Show credential ↗](https://www.udemy.com/certificate/UC-40efb957-1598-459e-b26f-e82954716766/) |
+| Curso completo de Python: Programación en Python desde cero | <img src="assets/logos/udemy.svg" width="16" height="16" alt=""> Udemy | [Show credential ↗](https://www.udemy.com/certificate/UC-92e2a394-e5cb-47a0-b1ab-aa2732ac74c7/) |
+| The Ultimate Beginners Course for Computer Science or IT | <img src="assets/logos/udemy.svg" width="16" height="16" alt=""> Udemy | [Show credential ↗](https://www.udemy.com/certificate/UC-c2c764b8-b981-4a8a-88f8-3b1b7d29cd06/) |
 
 ## Let's talk
+
+**Open to work** · remote · US hours
 
 [rodri.stevenmendez@gmail.com](mailto:rodri.stevenmendez@gmail.com) · [LinkedIn](https://www.linkedin.com/in/steven-mendez-4277602ba/) · [Download my CV](Steven-Mendez-CV.pdf)
