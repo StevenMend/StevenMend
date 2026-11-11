@@ -6,30 +6,39 @@ Product engineer in Costa Rica. I take products from the first conversation to p
 
 ## What I've built
 
-### DOJO · [trydojo.io](https://www.trydojo.io)
+### AI at DOJO · [trydojo.io](https://www.trydojo.io)
 
-<a href="https://www.trydojo.io"><img src="assets/work/doji.webp" alt="Doji, the AI agent: answer in the app and the router across five personas" width="49%"></a> <a href="https://www.trydojo.io/projects"><img src="assets/work/dojo-projects.webp" alt="Pathways courses, the Projects escrow snapshot and the delivery state machine" width="49%"></a>
+<a href="https://www.trydojo.io"><img src="assets/work/doji.webp" alt="Doji, the AI agent: an answer in the app and the router across five personas" width="49%"></a> <a href="https://www.trydojo.io"><img src="assets/work/dojo-crm-mcp.webp" alt="Claude connected to the DOJO CRM through the ops MCP server: pipeline and deal cards" width="49%"></a>
 
-Learn, build, get paid and launch: the platform for tech talent in Latin America, used in 8 countries. Software Engineer at Dojo Coding Labs, Dec 2025 – Oct 2026.
+I built the AI layer of DOJO, the platform for tech talent in Latin America used in 8 countries. Software Engineer at Dojo Coding Labs, Dec 2025 – Oct 2026.
 
-- **[Doji](https://www.trydojo.io), the AI agent** — five personas (The Mentor, The Tech Lead, The Founder, The Connector, The Guide) behind a router, with semantic search on pgvector, RLS-safe SQL tools, developer matching and project intake. Live in the app and on WhatsApp through the WhatsApp Business API, with voice notes, opt-out and account linking.
-- **[Projects](https://www.trydojo.io/projects)** — notarial-grade marketplace: Stripe Connect escrow, dual-signature attestations, milestone gates, dispute resolution and stake-weighted reputation. 11 pgTAP RLS suites passing.
-- **[Pathways](https://www.trydojo.io/pathways)** — the learning engine: courses, Mux video lessons, quizzes, assignments and verifiable certificates. I also teach on it: [Software Engineering Fundamentals · SWE-201](https://www.trydojo.io/pathways/courses/software-development-fundamentals-swe-201), my course on what a product is, the six pieces of every piece of software, the technical vocabulary and how to pick a stack (8 modules).
-- **CRM + MCP connector** — the company CRM, fed by signature-verified webhooks for Meta leads and WhatsApp, and operated from Claude by the ops team through an MCP server.
+- **[Doji](https://www.trydojo.io), the AI agent** — a plugin for the OpenClaw gateway with five personas behind a router (The Mentor, The Tech Lead, The Founder, The Connector, The Guide) on Gemini 2.5 Flash and Pro. 9 tools: semantic search over 4 pgvector domains, read-only SQL with RLS and whitelisted tables, a 100-point developer match, a 3-phase Socratic project intake, Dojo Score, course and co-founder matching, and memory across sessions. Generative UI: it answers with live interface components, not only text.
+- **WhatsApp agent** — Doji on WhatsApp through the WhatsApp Business API: voice notes, a guest mode with the catalog, account linking, sign-up from the chat and opt-out. The same plugin serves Slack and Discord.
+- **Guardrails** — JWT auth and rate limits before the agent starts, PII-leak detection and prompt-injection blocking on every message, an audit log of every tool call and an LLM judge that scores tool output.
+- **MCP connector + CRM** — the company CRM, fed by signature-verified webhooks for Meta leads and WhatsApp, and run from Claude by the ops team through an MCP server: pipelines, deals and live queries.
+- **Also on the platform** — [Projects](https://www.trydojo.io/projects), a notarial-grade marketplace with Stripe Connect escrow, dual-signature attestations and 11 pgTAP RLS suites; and [Pathways](https://www.trydojo.io/pathways), the learning engine, where I teach [Software Engineering Fundamentals · SWE-201](https://www.trydojo.io/pathways/courses/software-development-fundamentals-swe-201).
 
-`React 19` `TypeScript` `Vite` `Supabase` `pgvector` `Stripe Connect` `Mux` `Gemini` `MCP`
+`Gemini 2.5` `OpenClaw` `MCP` `pgvector` `WhatsApp Business API` `Supabase Edge Functions` `React 19` `TypeScript` `Stripe Connect`
 
-### Fischer POS
+### Restaurant POS + e-invoicing · [Sunset Café](https://shack-surf-cafe.vercel.app)
 
-<img src="assets/work/fischer-pos.webp" alt="Fischer POS on a tablet and a phone: table order, totals and the floor plan" width="100%">
+<a href="https://shack-surf-cafe.vercel.app"><img src="assets/work/sunset-web.webp" alt="Sunset Café, beach café and bar in Playa Marbella, Guanacaste" width="100%"></a>
 
-Point of sale with Costa Rica electronic invoicing, running every day in 3 restaurants. My own product: I designed it, built it and support it in production.
+Point of sale with Costa Rica electronic invoicing, running every day in 3 restaurants, among them Sunset Café, a beach café and bar in Playa Marbella, Guanacaste. My own product: I designed it, built it and support it in production.
 
-- **Electronic invoicing with Hacienda** — invoices, tickets and credit notes as signed XML, validated against Hacienda's schemas, sent to the Ministry of Finance and emailed to the customer as PDF + XML. Two issuers on the same tablet (a restaurant and a car wash under different tax IDs), consecutive numbers reserved atomically in Postgres so two tablets never collide, and "fix an invoice" in one tap: credit note + new invoice.
+- **Electronic invoicing with Hacienda** — invoices, tickets and credit notes as signed XML, validated against Hacienda's schemas, sent to the Ministry of Finance and emailed to the customer as PDF + XML. Several issuers on the same tablet (businesses under different tax IDs), consecutive numbers reserved atomically in Postgres so two tablets never collide, and "fix an invoice" in one tap: credit note + new invoice.
 - **The floor** — tables, takeout and QR orders, kitchen printer tickets, customer tabs, inventory, cash count and weekly payroll. Works offline on the tablets and merges changes when the connection comes back.
 - **Claude connector** — owners ask Claude for the day's summary, sales, expenses and financial health through an OAuth 2.1 MCP server.
 
 `React` `TypeScript` `Vite` `Supabase` `Postgres` `Hono` `Vercel` `MCP` `OAuth 2.1`
+
+### Darlope Travels · [darlopetravels.com](https://darlopetravels.com)
+
+<a href="https://darlopetravels.com"><img src="assets/work/darlope.webp" alt="Darlope Travels website on desktop and mobile: private transfers in Costa Rica" width="100%"></a>
+
+Booking system and CRM for a private-transfer company in Costa Rica. Travelers price and book rides from Liberia airport on the website; the owner, the office and 5 drivers run the day from one panel: requests, trips, the driver live on the map, a trip link for the traveler and a cash log. The CRM follows every lead by channel (web or WhatsApp) from new to in conversation to booked. Payments with ONVO.
+
+`React Router 7` `TypeScript` `Supabase` `ONVO` `WhatsApp` `PWA`
 
 ### MenteFut · [mentefutbol.com](https://www.mentefutbol.com)
 
@@ -41,7 +50,7 @@ AI mental coaching for footballers, narrated by Jeaustin Campos, the winningest 
 
 ### Hikari Intelligence Platform
 
-<img src="assets/work/hikari.webp" alt="Hikari accrual subledger with DECIMAL entries and the audit trail" width="100%">
+<img src="assets/work/hikari.webp" alt="Hikari investor dashboard: account value, coupon payment, set-up reserve amortization and capital protection" width="100%">
 
 Investor platform for a fund holding: KYC onboarding state machine, portfolios and transactions, a daily-accrual subledger with DECIMAL precision, an audit trail across 7 tables, an affiliate network and an admin back office, 57 screens in all. Lead developer; scaffold to v1.0-beta in 3 days.
 
@@ -55,12 +64,11 @@ Water telemetry and remote control for rural aqueducts: tank level, flow, pressu
 
 `Next.js` `Supabase`
 
-### Client sites
+### Rusz Shop · [ruszshop.com](https://ruszshop.com)
 
-<a href="https://ruszshop.com"><img src="assets/work/rusz-shop.webp" alt="Rusz Shop storefront" width="49%"></a> <a href="https://darlopetravels.com"><img src="assets/work/darlope.webp" alt="Darlope Travels booking site" width="49%"></a>
+<a href="https://ruszshop.com"><img src="assets/work/rusz-shop.webp" alt="Rusz Shop storefront" width="100%"></a>
 
-- **[Rusz Shop](https://ruszshop.com)** — sneaker and streetwear store with ONVO checkout and an admin panel.
-- **[Darlope Travels](https://darlopetravels.com)** — private transfers from Liberia airport, with a booking system, ONVO payments and a CRM.
+Sneaker and streetwear store for a client, with ONVO checkout and an admin panel.
 
 ## How I work
 
