@@ -1,12 +1,14 @@
-<img src="assets/banner.png" alt="Steven Méndez — Product Engineer · Full-Stack & AI Agents. Available now, remote, US hours." width="100%">
+<img src="assets/banner.svg" alt="Steven Méndez — Product Engineer · Full-Stack & AI Agents. Live in production. Available now, remote, US hours." width="100%">
 
 Product engineer in Costa Rica. I take products from the first conversation to production — discovery, database and security, backend, design system, frontend, payments and launch — with Claude in the loop at every layer. If it can be automated, I automate it.
 
-<img src="assets/impact.png" alt="1,000+ PRs merged at Dojo · 3 restaurants run my POS · 5 agent personas live · 8 countries use DOJO" width="100%">
+<img src="assets/impact.svg" alt="1,000+ PRs merged at Dojo · 3 restaurants run my POS · 5 agent personas live · 8 countries use DOJO" width="100%">
 
 ## What I've built
 
 ### DOJO · [trydojo.io](https://www.trydojo.io)
+
+<a href="https://www.trydojo.io"><img src="assets/work/doji.webp" alt="Doji, the AI agent: answer in the app and the router across five personas" width="49%"></a> <a href="https://www.trydojo.io/projects"><img src="assets/work/dojo-projects.webp" alt="Pathways courses, the Projects escrow snapshot and the delivery state machine" width="49%"></a>
 
 Learn, build, get paid and launch: the platform for tech talent in Latin America, used in 8 countries. Software Engineer at Dojo Coding Labs, Dec 2025 – Oct 2026.
 
@@ -19,6 +21,8 @@ Learn, build, get paid and launch: the platform for tech talent in Latin America
 
 ### Fischer POS · [pos-fischer.vercel.app](https://pos-fischer.vercel.app)
 
+<img src="assets/work/fischer-pos.webp" alt="Fischer POS on a tablet and a phone: table order, totals and the floor plan" width="100%">
+
 Point of sale with Costa Rica electronic invoicing, running every day in 3 restaurants. My own product: I designed it, built it and support it in production.
 
 - **Electronic invoicing with Hacienda** — invoices, tickets and credit notes as signed XML, validated against Hacienda's schemas, sent to the Ministry of Finance and emailed to the customer as PDF + XML. Two issuers on the same tablet (a restaurant and a car wash under different tax IDs), consecutive numbers reserved atomically in Postgres so two tablets never collide, and "fix an invoice" in one tap: credit note + new invoice.
@@ -29,11 +33,15 @@ Point of sale with Costa Rica electronic invoicing, running every day in 3 resta
 
 ### MenteFut · [mentefutbol.com](https://www.mentefutbol.com)
 
+<a href="https://www.mentefutbol.com"><img src="assets/work/mentefut.webp" alt="MenteFut landing on desktop and mobile with Jeaustin Campos" width="100%"></a>
+
 AI mental coaching for footballers, narrated by Jeaustin Campos, the winningest coach in Costa Rican football history. Diagnostic quiz on four pillars, AI-generated audio sessions, PDF kits and a 30-day plan, with Stripe one-time and monthly plans and an admin retention dashboard. Lead developer.
 
 `Next.js 16` `Supabase` `Stripe` `Gemini`
 
 ### Hikari Intelligence Platform
+
+<img src="assets/work/hikari.webp" alt="Hikari accrual subledger with DECIMAL entries and the audit trail" width="100%">
 
 Investor platform for a fund holding: KYC onboarding state machine, portfolios and transactions, a daily-accrual subledger with DECIMAL precision, an audit trail across 7 tables, an affiliate network and an admin back office, 57 screens in all. Lead developer; scaffold to v1.0-beta in 3 days.
 
@@ -41,11 +49,15 @@ Investor platform for a fund holding: KYC onboarding state machine, portfolios a
 
 ### DIESSA OS · in development
 
+<a href="https://diessa-os.vercel.app"><img src="assets/work/diessa-os.webp" alt="DIESSA OS operations dashboard: plants, tanks, alarms and readings" width="100%"></a>
+
 Water telemetry and remote control for rural aqueducts: tank level, flow, pressure, water quality and pump health on one mobile dashboard. Leading a 3-person team. Demo at [diessa-os.vercel.app](https://diessa-os.vercel.app).
 
 `Next.js` `Supabase`
 
 ### Client sites
+
+<a href="https://ruszshop.com"><img src="assets/work/rusz-shop.webp" alt="Rusz Shop storefront" width="49%"></a> <a href="https://darlopetravels.com"><img src="assets/work/darlope.webp" alt="Darlope Travels booking site" width="49%"></a>
 
 - **[Rusz Shop](https://ruszshop.com)** — sneaker and streetwear store with ONVO checkout and an admin panel.
 - **[Darlope Travels](https://darlopetravels.com)** — private transfers from Liberia airport, with a booking system, ONVO payments and a CRM.
