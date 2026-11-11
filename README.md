@@ -19,7 +19,7 @@ Learn, build, get paid and launch: the platform for tech talent in Latin America
 
 `React 19` `TypeScript` `Vite` `Supabase` `pgvector` `Stripe Connect` `Mux` `Gemini` `MCP`
 
-### Fischer POS · [pos-fischer.vercel.app](https://pos-fischer.vercel.app)
+### Fischer POS
 
 <img src="assets/work/fischer-pos.webp" alt="Fischer POS on a tablet and a phone: table order, totals and the floor plan" width="100%">
 
